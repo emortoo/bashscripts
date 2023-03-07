@@ -1,0 +1,4 @@
++ echo 'Welcome to Landmark Eagle Group'
++ sleep 2
++ echo 'Enter first and last name'
++ read firstname lastname
